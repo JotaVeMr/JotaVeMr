@@ -8,14 +8,11 @@
 - 🌱  Estou aprendendo atualmente Python
 - 📫  joaovitormartinsbtos@gmail.com  
 
+<h3 align="left">Connect with me!</h3>
 
-<!--
-<div> 
-  <a href="https://instagram.com/joaoribeiro_mv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizteixeirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "[mailto:luiz.hh200@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> 
-!-->
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](joaovitormartinsbtos@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/joaoribeiro_mv/)
+
 ### 📊 Estatísticas
 
 <p>
