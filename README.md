@@ -3,8 +3,6 @@
 
 
 
-
-- 🔭  Trabalho atualmente com Ciencia de Dados
 - 🌱  Estou aprendendo atualmente Python
 - 📫  joaovitormartinsbtos@gmail.com  
 
