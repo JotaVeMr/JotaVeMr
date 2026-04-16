@@ -5,6 +5,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](joaovitormartinsbtos@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/joaoribeiro_mv/)
+[![Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-ribeiro-30421134b/)
 
 ### 📊 Estatísticas
 
