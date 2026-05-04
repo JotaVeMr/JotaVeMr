@@ -11,12 +11,12 @@
 
 <div align="center">
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoVitorRibeiro05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=JoaoVitorRibeiro05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorRibeiro05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JoaoVitorRibeiro05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
@@ -24,8 +24,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorRibeiro05/JoaoVitorRibeiro05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorRibeiro05/JoaoVitorRibeiro05/output/github-contribution-grid-snake.svg">
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/JoaoVitorRibeiro05/JoaoVitorRibeiro05/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/JoaoVitorRibeiro05/JoaoVitorRibeiro05/output/github-contribution-grid-snake.svg"
+    >
     <img 
       alt="github contribution grid snake animation" 
       src="https://raw.githubusercontent.com/JoaoVitorRibeiro05/JoaoVitorRibeiro05/output/github-contribution-grid-snake.svg"
